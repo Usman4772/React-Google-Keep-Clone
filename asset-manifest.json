@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Google-Keep-Clone/static/css/main.a5a04739.css",
+    "main.js": "/React-Google-Keep-Clone/static/js/main.85810c82.js",
+    "static/js/453.f01c79f6.chunk.js": "/React-Google-Keep-Clone/static/js/453.f01c79f6.chunk.js",
+    "index.html": "/React-Google-Keep-Clone/index.html",
+    "main.a5a04739.css.map": "/React-Google-Keep-Clone/static/css/main.a5a04739.css.map",
+    "main.85810c82.js.map": "/React-Google-Keep-Clone/static/js/main.85810c82.js.map",
+    "453.f01c79f6.chunk.js.map": "/React-Google-Keep-Clone/static/js/453.f01c79f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5a04739.css",
+    "static/js/main.85810c82.js"
+  ]
+}
